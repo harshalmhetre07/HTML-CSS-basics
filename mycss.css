@@ -1,0 +1,29 @@
+h1,h2,h3,h4{
+    border-width: 1px 2px 3px 4px;
+       border-style: solid;
+       border-color: aqua blue red greenyellow;
+}
+
+p1,p2 {
+    border-style: dotted solid double dashed; 
+}
+
+.myclass1 {
+color: red;
+}
+
+.myclass2 {
+text-align: center;
+}
+
+.myclass3{
+font-size: 15px;
+}
+
+#myid1 {
+font-family: 'Courier New', Courier, monospace;
+}
+
+#myid2 {
+    font-weight: bold;
+}
